@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+.logo {
+  font-size: 24px;
+  color: #5A189A;
+}
+.btn {
+  margin-left: 10px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+.btn.primary {
+  background-color: #7209B7;
+  color: white;
+}
